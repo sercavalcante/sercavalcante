@@ -1,8 +1,6 @@
 ## Olá! Sou Sergio Cavalcante, um profissional com mais de 20 anos de experiência em Infraestrutura de Redes, Servidores Linux, CLOUD, GCP, AWS e AZURE atuei como arquiteto de serviços CDN na Globo, a maior empresa de mídia da América Latina. 
 Possuo a certificação CCT Fluke Networks, que comprova minha competência em testar e certificar cabos de cobre e fibra óptica com as melhores práticas e padrões do mercado.<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sercavalcante&show_icons=true&locale=en" alt="sercavalcante" /></p>
-
 <div style="display: inline_block"><br>
 <h3 align="left">Especializações e Ferramentas :</h3>
 <p align="left">&nbsp;
